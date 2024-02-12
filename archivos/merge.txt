@@ -1,1 +1,3 @@
 Jhoan Alexis Rúa García, 18 años, aspiro a poder descubrir un poco más del vasto mundo de la programación, conocer nuevos amigos y hacer un buen proyecto con mis compañeros.
+Ahora sí es posible crear el commit porque se incluyó el archivo 'respuesta.txt' y ya la carpeta 'archivos' no estaba vacía.
+Es importante tener cuidado para no caer en conflictos.
