@@ -1,0 +1,1 @@
+Ahora sí es posible crear el commit porque se incluyó el archivo 'respuesta.txt' y ya la carpeta 'archivos' no estaba vacía.
